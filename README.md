@@ -14,16 +14,7 @@ Dining Guide has got you covered.
 <html>
 
 <head>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
 
-        .code-box {
-            border: 1px solid #ddd;
-            padding: 1px;
-            border-radius: 5px;
-        }
-    </style>
 </head>
 
 <body>
@@ -36,8 +27,10 @@ Dining Guide has got you covered.
 <p><b>Web Browser:</b> Ensure you have a modern web browser installed to access the Local Dining Guide interface.</p>
 <p><b>Internet Connection:</b> A stable internet connection is required to fetch restaurant data and images.</p>
 
-
-    <p><h3>Installation</h3></p>
+<p>
+    <h3>Installation</h3>
+</p>
+<br>
     <ol>
         <li >Clone the Repository: Start by cloning this repository to your local machine.</li>
 <br>
